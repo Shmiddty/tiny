@@ -1,0 +1,38 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "nibble.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 57.0414
+        }
+    },
+    "last.imagePath": "/home/mercherm44/proj/tiny/assets",
+    "last.worldFilePath": "/home/mercherm44",
+    "loadedWorlds": [
+        "/home/mercherm44/test.world"
+    ],
+    "map.fixedSize": false,
+    "map.height": 32,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 4,
+    "map.tileWidth": 4,
+    "map.width": 64,
+    "openFiles": [
+    ],
+    "project": "nibble.tiled-project",
+    "recentFiles": [
+        "nibble.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 4,
+        "width": 4
+    }
+}
